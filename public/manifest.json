@@ -1,0 +1,16 @@
+{
+  "name": "Tic Tac Toe",
+  "short_name": "TicTacToe",
+  "description": "A fun Tic Tac Toe game built with Next.js",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#6d28d9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
